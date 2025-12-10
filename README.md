@@ -1,2 +1,3 @@
-# Nyx-
+# Nyx
+
 Nyx Application
